@@ -1,0 +1,9 @@
+.imageGrid{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.imageGrid img{
+  padding: 0 8px;
+  margin-top: 8px;
+}

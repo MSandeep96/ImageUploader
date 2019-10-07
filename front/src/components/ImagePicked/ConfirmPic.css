@@ -1,0 +1,22 @@
+.lepic{
+  height: 512px;
+  width: 512px;
+  border: 1px solid rgba(00, 00, 00, 0.2);
+}
+
+.pic_container{
+  width: 600px;
+  margin: auto;
+  text-align: center;
+  padding: 0px;
+}
+
+.backBtn{
+  text-align: left;
+  padding: 5px;
+} 
+
+.confirmErrorMsg{
+  height: 40px;
+  margin-top: 5px;
+}

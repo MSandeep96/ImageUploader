@@ -1,0 +1,10 @@
+.pickImage{
+  width: 600px !important;
+  margin: auto;
+  text-align: center;
+}
+
+.pickFileInput {
+  margin-top: 2em;
+  margin-bottom: 2em;
+}

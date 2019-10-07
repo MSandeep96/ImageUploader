@@ -1,0 +1,20 @@
+.cropperDiv{
+  display: flex;
+  flex-direction: row; 
+}
+
+.previewDiv{
+  margin-left: 40px;
+  display: flex;
+  flex-direction: column;
+  flex: 0 0 500px;
+  text-align: center;
+}
+
+.cropImg{
+  flex-grow: 1;
+}
+
+.ReactCrop__crop-selection{
+  border: 1px dotted rgba(255,255,255, 0.6);
+}
